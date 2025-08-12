@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3ZTNmM29janhxZXc1eHlnZmZkY2c1cTJ1dm83bDFneThkaXJiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P4bLhbzfxDaM0/giphy.gif" alt="Developer Animation" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nnl6ejgxdXdyYjJiamMzdWo4MHBoanVpcDg1cnFwYWY2bnhiY3pjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PitjulDgw7xH3X7t5s/giphy.gif" alt="Developer Animation" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aiman Yoviar Maulana</h1>
